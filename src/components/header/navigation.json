@@ -1,0 +1,30 @@
+[
+  {
+    "title": "New Arrivals",
+    "url": "/collections/new-arrivals-view-all"
+  },
+  {
+    "title": "Clothing",
+    "url": "/collections/clothing-view-all"
+  },
+  {
+    "title": "Plus",
+    "url": "/collections/plus-view-all"
+  },
+  {
+    "title": "Collections",
+    "url": "/collections/spring-2021"
+  },
+  {
+    "title": "Accessories",
+    "url": "/collections/accessories-view-all"
+  },
+  {
+    "title": "Home",
+    "url": "/collections/home"
+  },
+  {
+    "title": "Sale",
+    "url": "/collections/sale-view-all-sale"
+  }
+]

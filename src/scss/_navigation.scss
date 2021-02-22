@@ -1,0 +1,36 @@
+#nav-menu-desktop-list {
+  .megamenu {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    top: 100%;
+    width: 1016px;
+    padding: 40px 30px;
+    &.block {
+      display: block;
+    }
+  }
+  .mega-column-content {
+    width: 65%;
+    display: inline-block;
+    margin-left:-4px;
+    &:after{
+      clear:both;
+      display: table;
+      content:'';
+    }
+    .nav-sub-item {
+      float:left;
+      width: 50%;
+    }
+  }
+  .mega-image {
+    width: 35%;
+    display: inline-block;
+    margin-left:-4px;
+  }
+  .nav-primary-link {
+    display: inline-block;
+    padding: 0 5px;
+  }
+}
